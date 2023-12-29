@@ -1,0 +1,86 @@
+===========================================================================
+Advanced engine needed  : Boom - DSDA, Doom Retro, prBoom+, Woof!, Nugget
+                          Doom, Cherry Doom, Eternity Engine
+Primary purpose         : Single play
+===========================================================================
+Title                   : Scythe Reforged - Teaser [MAP20]
+Filename                : SCYTHER_TEASER.WAD
+Release date            : 5 December 2023
+Author                  : DRON12261
+Email Address           : andrejskocko@gmail.com
+Other Files By Author   : Hotel of the Dead, SHOVELDM Maps, The Living Abyss
+                          on my Painting, Russian Rundom Mapping Sessions
+                          Series, etc
+Misc. Author Info       : Mapper, mod maker, programmer, and quite a bit of
+                          pixel art artist.
+
+Description             : Scythe remake teaser. More specifically in this wad
+                          - MAP20 remake. The project was born after the
+                          closure of Scythe Re-Sharpened. 
+                          
+                          My goal is not just to improve the existing maps in
+                          the scythe. My goal is to create new levels from
+                          scratch, inspired by the original maps, keeping
+                          recognizability of setting, visuals, frame palette,
+                          special memorable moments, gameplay.
+
+Additional Credits to   : Eric Alm - Scythe Resources
+                          EPICALLL for the initial idea with Scythe 
+                          Re-Sharpened
+                          
+                          Special thanks to Doom Wads, Track Federal, 
+                          RastaManGames and Shiroi Akuma (Slavius) for
+                          testing.
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : Yes
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : 01
+Single Player           : Designed for
+Cooperative 2-4 Player  : Designed for
+Deathmatch 2-4 Player   : Designed for
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 2 Weeks
+Editor(s) used          : Ultimate Doom Builder, SLADE 3, Aseprite
+Known Bugs              : -
+May Not Run With        : -
+Tested With             : Doom Retro, Cherry Doom, Woof!, Eternity Engine,
+                          prBoom+, DSDA, GZDoom
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License. To view a
+copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material. If you do so, you must
+give appropriate credit, provide a link to the license, and indicate if
+changes were made. You may do so in any reasonable manner, but not in any way
+that suggests the licensor endorses you or your use. You may not use the
+material for commercial purposes. If you remix, transform, or build upon the
+material, you must distribute your contributions under the same license as
+the original.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors

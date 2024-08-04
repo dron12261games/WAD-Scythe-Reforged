@@ -24,6 +24,11 @@ Description             : Scythe remake teaser. More specifically in this wad
                           recognizability of setting, visuals, frame palette,
                           special memorable moments, gameplay.
 
+                          Update v2 (possibly final):
+                          - fixed problem with progression after a boss fight
+                          - added more ammo in the soul sphere secret
+                          - minor fixes
+
 Additional Credits to   : Eric Alm - Scythe Resources
                           EPICALLL for the initial idea with Scythe 
                           Re-Sharpened

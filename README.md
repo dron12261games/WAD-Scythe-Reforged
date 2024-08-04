@@ -1,12 +1,25 @@
-# Scythe Reforged [? Levels, BOOM, DOOM 2]
+# Scythe Reforged [1+ Levels, BOOM, DOOM 2]
 
-# STATUS: 🧊FROZEN
+# STATUS: 📦EARLY RELEASE | MAP20 TEASER
+
+### Download - [Latest Release](https://github.com/dron12261games/WAD-Scythe-Reforged/releases/download/teaser_v2/SCYTHER_TSER.ZIP)
 
 The map was originally created for the Scythe Resharpened community project. But then the project fell apart and I took my map back. In the future, I plan to remake a few more maps and put it all out with the subtitle "Scythe: Reforged Demo". If people like it, I'll consider a full 32+ maps remake.
 
+**DO NOT USE GZDOOM WITH HARDWARE RENDERER OR OTHER GRAPHICS MODS! THEY DISTORT THE PICTURE VERY BADLY, OFTEN COMPLETELY DESTROYING THE ENTIRE VISUAL OF THE MAP AND WORK WITH LIGHTING! THIS MAP IS INTENDED ONLY FOR DOOM SOURCE-PORTS WITH CORRECT SOFTWARE RENDERER, SUCH AS DSDA, WOOF!, NUGGET DOOM, DOOM RETRO, ETERNITY ENGINE, ETC.**
+
+My goal is not just to improve the existing maps in the scythe. My goal is to create new levels from scratch, inspired by the original maps, keeping recognizability of setting, visuals, frame palette, special memorable moments, gameplay.
+
+Update v2 (possibly final):
+- fixed problem with progression after a boss fight
+- added more ammo in the soul sphere secret
+- minor fixes
+
 ## Resources in use:
 - [SCYTHE.WAD - Original Scythe Megawad](https://www.doomworld.com/idgames/levels/doom2/megawads/scythe)
-- [ColossalDTex [8200+ Texture Pack]](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/RES-ColossalDTex)
+
+## MapList:
+- `MAP20` - The Starport 2000 (on MAP01 slot in SCYTHER_TSER.WAD) ✅DONE
 
 # Actual screenshots:
 ![Screen1](./screens/1.png)
@@ -15,16 +28,3 @@ The map was originally created for the Scythe Resharpened community project. But
 ![Screen4](./screens/4.png)
 ![Screen5](./screens/5.png)
 ![Screen6](./screens/6.png)
-![Screen7](./screens/7.png)
-![Screen8](./screens/8.png)
-![Screen9](./screens/9.png)
-![Screen10](./screens/10.png)
-![Screen11](./screens/11.png)
-![Screen12](./screens/12.png)
-![Screen13](./screens/13.png)
-![Screen14](./screens/14.png)
-![Screen15](./screens/15.png)
-![Screen16](./screens/16.png)
-![Screen17](./screens/17.png)
-![Screen18](./screens/18.png)
-![Screen18](./screens/19.png)

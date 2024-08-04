@@ -18,6 +18,14 @@ Description             : Scythe remake teaser. More specifically in this wad
                           - MAP20 remake. The project was born after the
                           closure of Scythe Re-Sharpened. 
                           
+                          DO NOT USE GZDOOM WITH HARDWARE RENDERER OR OTHER 
+                          GRAPHICS MODS! THEY DISTORT THE PICTURE VERY BADLY, 
+                          OFTEN COMPLETELY DESTROYING THE ENTIRE VISUAL OF 
+                          THE MAP AND WORK WITH LIGHTING! THIS MAP IS 
+                          INTENDED ONLY FOR DOOM SOURCE-PORTS WITH CORRECT 
+                          SOFTWARE RENDERER, SUCH AS DSDA, WOOF!, NUGGET DOOM, 
+                          DOOM RETRO, ETERNITY ENGINE, ETC.
+
                           My goal is not just to improve the existing maps in
                           the scythe. My goal is to create new levels from
                           scratch, inspired by the original maps, keeping

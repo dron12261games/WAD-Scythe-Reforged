@@ -1,6 +1,6 @@
-# Scythe Reforged [1+ Levels, BOOM, DOOM 2]
+# Scythe Reforged - Teaser MAP20 [1 Level, BOOM, DOOM 2]
 
-# STATUS: 📦EARLY RELEASE | MAP20 TEASER
+# STATUS: ✅RELEASED
 
 ### Download - [Latest Release](https://github.com/dron12261games/WAD-Scythe-Reforged/releases/download/teaser_v2/SCYTHER_TSER.ZIP)
 
